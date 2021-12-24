@@ -1,5 +1,3 @@
-// this is project 2021/12/17
-// time-10:02 AM
 
 #include <stdio.h>
 #include <stdlib.h>
