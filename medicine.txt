@@ -1,0 +1,5 @@
+Crestor		rosuvastatin		2000	1800	2500	CHINA
+Nexium		esomeprazole		1000	1000	1500	INDIA
+Humira		adalimumab		1000	1200	2000	BRAZIL
+Abilify		aripiprazole		500	1400	1800	JAPAN
+Synthro		levothyroxine		1000	1500	2000	USA
